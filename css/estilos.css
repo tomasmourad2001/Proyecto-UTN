@@ -79,6 +79,8 @@ footer{
     font-size: 14px;
 }
 
+/* Seccion Home */
+
 .home{
     display: flex;
     align-items: center;
@@ -150,6 +152,8 @@ footer{
     transform: scale(1.1);
 }
 
+/* Fin Home */
+
 /* Seccion Nosotros */
 
 main h2{
@@ -198,3 +202,22 @@ main h2{
 .parrafos .parrafo3{
     text-align: justify;
 }
+
+/* Fin Nosotros */
+
+/* Seccion Novedades */
+
+.novedades h3{
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 1em;
+}
+
+.novedades h4{
+    font-size: 20px;
+    margin-bottom: 1em;
+}
+
+/* Fin Novedades */
+
+/* Seccion Galeria */
